@@ -1,0 +1,6 @@
+C:\Users\5MFJW02\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+C:\Users\5MFJW02\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\5MFJW02\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\5MFJW02\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\5MFJW02\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+C:\Users\5MFJW02\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
